@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+.odd-num {
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
